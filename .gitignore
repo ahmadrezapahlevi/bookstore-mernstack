@@ -1,1 +1,3 @@
 **/config.js
+# Abaikan node_modules di semua folder
+**/node_modules/
